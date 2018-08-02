@@ -11,7 +11,6 @@ public class MainClass {
 		int n = sc.nextInt();
 		int array[] = new int[n];
 		if (n > 2) {
-
 			System.out.print("Enter the elements of the array");
 			for (int i = 0; i < n; i++) {
 				array[i] = sc.nextInt();
